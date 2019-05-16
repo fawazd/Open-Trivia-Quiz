@@ -1,0 +1,39 @@
+a.nav-link{
+color: white;
+}
+a.nav-link:hover{
+color: lightblue;
+}
+h1.tournament_title {
+    text-transform: uppercase;
+}
+
+.navbar{
+padding-left: 20%;
+}
+
+.container{
+margin-top: 4%;
+}
+
+.col-sm-2.col-form-label{ margin-left: -10%; margin-right: -7%;}
+.form-control{width: 20%;}
+
+.btn.btn-primary.login{width: 16.5%; margin-left: -0.3%;}
+
+.container.login{margin-left: 26%;}
+
+.card-img-top{max-height: 100px;}
+.card{width: 246px; margin-bottom: 40px; height: 350px; margin-top: 10px;}
+div.col-sm-6{width: 246; flex: 0 0 0; margin-right: 20px; height: 350px; margin-bottom: 20px;}
+
+.login{margin-bottom: 10px;}
+
+.btn.btn-primary.create{width: 20%;}
+
+.radio{margin-right: 10px;}
+
+.question{margin-bottom: 30px;}
+.error input, .error select {
+border: 2px red solid;
+}
